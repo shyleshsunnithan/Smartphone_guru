@@ -1,0 +1,54 @@
+{
+  "id": "7b7dc6fc-dad8-4e6c-bd8c-7f88dfbb7839",
+  "name": "Best Smartphones under 10000",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "Camera",
+      "affectedContexts": [
+        {
+          "name": "BestSmartphonesunder10000-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9595fe82-e773-41da-8e7a-d15540114cdd",
+          "required": true,
+          "dataType": "@Budget",
+          "name": "Budget",
+          "value": "$Budget",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "97d9474a-9fe1-4821-a4ff-7801dab2044b",
+          "required": false,
+          "dataType": "@Camera",
+          "name": "Camera",
+          "value": "$Camera",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are the results : Real me 2 pro, Redmi 6, Nokia 5.1, Redmi Note 5 Pro, The Asus Zenfone Max Pro M1. Is there anything else you need to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542031308,
+  "fallbackIntent": false,
+  "events": []
+}

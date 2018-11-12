@@ -1,0 +1,39 @@
+{
+  "id": "edee3fbe-0d42-48d7-962c-33770d24eb9e",
+  "name": "Flagship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7441d530-3e9f-4887-9d99-213e723bc3f3",
+          "required": true,
+          "dataType": "@Budget",
+          "name": "Budget",
+          "value": "$Budget",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My suggestions are One Plus 6, One Plus 6T,  Samsung Galaxy Note 9, Samsung Galaxy S9+, Google Pixel 3XL and Pixel 3. And iPhone XS, X and XS Max from Apple are also good choices. Is there anything else you need to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542031040,
+  "fallbackIntent": false,
+  "events": []
+}

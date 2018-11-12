@@ -1,0 +1,31 @@
+{
+  "id": "1c1ca92d-a48f-42ad-b56c-848761378b88",
+  "name": "of course",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok Let me see how can I help",
+            "Ok How can I help !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541873195,
+  "fallbackIntent": false,
+  "events": []
+}

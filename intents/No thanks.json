@@ -1,0 +1,28 @@
+{
+  "id": "716e27ef-e3c0-4f38-a86a-68b41884a06c",
+  "name": "No thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank You for using Smartphone Guru. Have a nice Day!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542030673,
+  "fallbackIntent": false,
+  "events": []
+}

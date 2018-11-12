@@ -1,0 +1,28 @@
+{
+  "id": "de1d3576-203a-4005-8013-36ea0e028ad9",
+  "name": "Who made you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was created by Shylesh S. He is a Computer Science enthusiast from Kerala, he  is also interested in Graphic Designing and Web Development. Anything you want to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542031086,
+  "fallbackIntent": false,
+  "events": []
+}

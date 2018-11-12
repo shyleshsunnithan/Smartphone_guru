@@ -1,0 +1,28 @@
+{
+  "id": "b85ae632-0dce-484e-a105-db26dc111871",
+  "name": "Thanks for the help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Is there anything you want to know about."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541873661,
+  "fallbackIntent": false,
+  "events": []
+}

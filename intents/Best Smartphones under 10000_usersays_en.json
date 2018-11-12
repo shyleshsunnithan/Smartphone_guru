@@ -1,0 +1,214 @@
+[
+  {
+    "id": "40040592-4019-4de8-93bd-91d3e809d58d",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "budget",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " phones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542031308
+  },
+  {
+    "id": "96a88706-c583-4999-9f59-55e3e5bcbc32",
+    "data": [
+      {
+        "text": "best phones under ",
+        "userDefined": false
+      },
+      {
+        "text": "15000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030750
+  },
+  {
+    "id": "f8c0fdb6-0026-4eef-965b-544da5363e78",
+    "data": [
+      {
+        "text": "best phones under ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030750
+  },
+  {
+    "id": "fa5eb35a-84da-46eb-b14e-1f05c5c8a123",
+    "data": [
+      {
+        "text": "10000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030750
+  },
+  {
+    "id": "cea4eeb4-c259-4e6c-a103-aca2dee35c57",
+    "data": [
+      {
+        "text": "15000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030750
+  },
+  {
+    "id": "a0f5245a-e194-4f5e-9661-bd0507a4b5d6",
+    "data": [
+      {
+        "text": "Best Smartphones under ",
+        "userDefined": false
+      },
+      {
+        "text": "15000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " ruppees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541873458
+  },
+  {
+    "id": "175524dd-8ea7-46ad-964f-4c051b776ac8",
+    "data": [
+      {
+        "text": "Best Smartphones under ",
+        "userDefined": false
+      },
+      {
+        "text": "15000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541873458
+  },
+  {
+    "id": "ed539994-de60-430c-8bd1-67d7fc9d24d1",
+    "data": [
+      {
+        "text": "under ",
+        "userDefined": false
+      },
+      {
+        "text": "15000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541274498
+  },
+  {
+    "id": "72c55e74-0585-4a54-ba2b-1611acef1752",
+    "data": [
+      {
+        "text": "Best Smartphone under ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Dual Camera",
+        "alias": "Camera",
+        "meta": "@Camera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541271428
+  },
+  {
+    "id": "883c216c-a91a-4cbd-9860-f7c9df324b19",
+    "data": [
+      {
+        "text": "Best ",
+        "userDefined": false
+      },
+      {
+        "text": "Budget",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " Smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541270047
+  },
+  {
+    "id": "7dd17a19-980e-48de-a8d2-c2080b15dac9",
+    "data": [
+      {
+        "text": "Best Smartphones under ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541269802
+  }
+]

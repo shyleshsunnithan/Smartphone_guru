@@ -1,0 +1,37 @@
+{
+  "id": "52f0c788-512a-4505-83ae-dc1dce9104e9",
+  "name": "Mid Range",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e24c516c-4ea2-43a8-abef-b790045c44ce",
+          "required": false,
+          "dataType": "@Budget",
+          "name": "Budget",
+          "value": "$Budget",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok .hmmm...  The Mi Mix 3 from Xiaomi, The Poco F1, Honor Play, Honor 10 and Huawei P20 lite will be great choices. Is there anything else You need to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542031431,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "301a8988-84b6-48a2-8c0a-c09ebe809c10",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "Mid Range",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " phones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030948
+  },
+  {
+    "id": "147fdb94-0734-4564-960e-11bcb1ed0b30",
+    "data": [
+      {
+        "text": "best phones under ",
+        "userDefined": false
+      },
+      {
+        "text": "30000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030948
+  },
+  {
+    "id": "e5f51079-1bb0-4d78-b445-64e8f628146c",
+    "data": [
+      {
+        "text": "best phones under ",
+        "userDefined": false
+      },
+      {
+        "text": "20000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030948
+  },
+  {
+    "id": "45816561-3edc-4d2f-bd26-04e5c5c6ba17",
+    "data": [
+      {
+        "text": "20000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030948
+  },
+  {
+    "id": "15fdb0ec-1bf7-4091-bcfe-bca82aeb0a06",
+    "data": [
+      {
+        "text": "30000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030648
+  },
+  {
+    "id": "ae619185-7230-4dda-99aa-454f87ac707e",
+    "data": [
+      {
+        "text": "Best smartphones under ",
+        "userDefined": false
+      },
+      {
+        "text": "30000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541874836
+  },
+  {
+    "id": "b043fb69-151f-4718-8c43-c68a34146c0c",
+    "data": [
+      {
+        "text": "best Smartphones between ",
+        "userDefined": false
+      },
+      {
+        "text": "15000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "30000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541874836
+  },
+  {
+    "id": "28f1fdac-dae4-4f50-86eb-fe7c59e9898a",
+    "data": [
+      {
+        "text": "Best ",
+        "userDefined": false
+      },
+      {
+        "text": "Mid range",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " Smartphones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541874836
+  }
+]

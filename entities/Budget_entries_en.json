@@ -1,0 +1,44 @@
+[
+  {
+    "value": "5000",
+    "synonyms": [
+      "5000",
+      "five thousand",
+      "five thousand ruppees"
+    ]
+  },
+  {
+    "value": "15000",
+    "synonyms": [
+      "10000",
+      "ten thousand ruppees",
+      "ten thousand",
+      "Budget",
+      "15000",
+      "fifteen thousand",
+      "fifteen thousand ruppees"
+    ]
+  },
+  {
+    "value": "20000",
+    "synonyms": [
+      "20000",
+      "twenty thousand ruppees",
+      "twenty thousand",
+      "Mid range",
+      "30000",
+      "thirty thousand",
+      "thirty thousand ruppees"
+    ]
+  },
+  {
+    "value": "50000",
+    "synonyms": [
+      "50000",
+      "flagship",
+      "more than 30000",
+      "more than 20000",
+      "Premium"
+    ]
+  }
+]

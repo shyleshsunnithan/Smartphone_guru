@@ -1,0 +1,148 @@
+[
+  {
+    "id": "b673b145-b461-4c59-9c87-9e0f19b674f6",
+    "data": [
+      {
+        "text": "Best phones above ",
+        "userDefined": false
+      },
+      {
+        "text": "50000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542031040
+  },
+  {
+    "id": "177e7fd3-e97f-476e-ba82-b6177efd880f",
+    "data": [
+      {
+        "text": "Best ",
+        "userDefined": false
+      },
+      {
+        "text": "Flagship",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " smartphones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542031040
+  },
+  {
+    "id": "24d73e1c-e132-4e95-9cc7-cafada97ed05",
+    "data": [
+      {
+        "text": "50000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542030554
+  },
+  {
+    "id": "a74c2f2a-5c1b-4242-ac49-a285203e5944",
+    "data": [
+      {
+        "text": "Best Premium smartphones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541278582
+  },
+  {
+    "id": "44688cff-63f7-417c-a452-5c3ef5d156d6",
+    "data": [
+      {
+        "text": "Best ",
+        "userDefined": false
+      },
+      {
+        "text": "Premium",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " Phones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541277621
+  },
+  {
+    "id": "3ad41d09-7c35-41a4-b45f-6b9e33e072ee",
+    "data": [
+      {
+        "text": "best Smartphones under ",
+        "userDefined": false
+      },
+      {
+        "text": "50000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541277621
+  },
+  {
+    "id": "454442e0-97f9-42fc-b27e-b8fd608c1624",
+    "data": [
+      {
+        "text": "Best Smartphones above ",
+        "userDefined": false
+      },
+      {
+        "text": "50000",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541277621
+  },
+  {
+    "id": "0013e1d7-2518-439c-b441-56df46daf633",
+    "data": [
+      {
+        "text": "Best ",
+        "userDefined": false
+      },
+      {
+        "text": "Flagship",
+        "alias": "Budget",
+        "meta": "@Budget",
+        "userDefined": false
+      },
+      {
+        "text": " Phones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541277621
+  }
+]
