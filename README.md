@@ -1,7 +1,7 @@
 # Smartphone_guru
-A google Action
+## A google Action
 
-Common inputs:
+### Common inputs:
 1. Best budget phone.
 2. Best midrange phone.
 3. Best flagship phone.
